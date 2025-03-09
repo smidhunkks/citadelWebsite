@@ -3601,9 +3601,9 @@ img.u-pull-left {
         margin-right : 0;
     }
 
-    .s-intro__content-bottom-block:last-child {
+    /* .s-intro__content-bottom-block:last-child {
         display : none;
-    }
+    } */
 }
 
 @media screen and (max-width: 400px) {
